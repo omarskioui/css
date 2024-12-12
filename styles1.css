@@ -1,0 +1,22 @@
+#main{
+    text-align: start;
+    padding: 30px; ;
+}
+#img-caption{
+    text-align: center;
+}
+#image{
+    display: block;max-width:100% ;height: auto;
+}
+#img-div{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+body{
+    padding: 0% 10%;
+}
+li{
+    margin-top: 20px;
+}
